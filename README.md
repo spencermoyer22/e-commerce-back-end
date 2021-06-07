@@ -1,4 +1,4 @@
-# README Generator
+# E-commerce Back-End
 
 ## Description
 For this project, I worked on the back end side of a fake ecommerce site to use a database that contains categories, products, and tags for the products. I created relationships between the different items of the database to store data related to one another. I created api endpoints to get the data, add data, update it, or delete it based off the specifications in the routes. This will allow for user input once the back-end site would be tied to the front-end of a real e-commerce site. I created the routes using the expression npm package. I used dotenv to hide the program user's mysql login information.
